@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Venkateswara Reddy!  
 
 🎓 **Mechanical Engineering Graduate** **and** **Python Web-Developer**
+
 💡 Graduated from **Rajiv Gandhi University of Knowledge Technologies, Srikakulam**.
 
 ---
