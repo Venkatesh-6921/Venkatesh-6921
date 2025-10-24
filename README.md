@@ -32,7 +32,7 @@
 
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](#) *(Add your LinkedIn profile link here)*  
-- 📧 **Email:** *(your email address)*  
+- 📧 **Email:** *(maragadavekatesh@gmail.com)*  
 - 🧰 [GitHub](https://github.com/Venkatesh-6921)  
 
 ---
