@@ -23,6 +23,7 @@
 
 **Other Skills:** Git, GitHub, PyInstaller, SQLite3  
 
+---
 
 ## 🧪 Featured Projects
 ### 🔹 [Calculator-Ctk](https://github.com/Venkatesh-6921/Calculator-Ctk)
@@ -31,13 +32,14 @@
 ### 🔹 [Employee Management System](https://github.com/Venkatesh-6921/Employee_Management)
 *A Django-based web app for managing employee data using SQLite.*
 
+---
+
 ## 🌐 Connect With Me
 - 💼 [LinkedIn](#) *(Add your LinkedIn profile link here)*  
 - 📧 **Email:** *(maragadavekatesh@gmail.com)*  
 - 🧰 [GitHub](https://github.com/Venkatesh-6921)  
 
 ---
-
 
 ## 🏆 Goals & Interests  
 - 💡 Explore **data-driven material science** and **machine learning deployment**.  
