@@ -17,7 +17,9 @@
 
 ## 🧩 Tech Stack
 **Programming:** Python, JavaScript, Html5 ,Css3 ,React.js 
+
 **Frameworks & Tools:** Django, Flask, Streamlit, CustomTkinter 
+
 **Other Skills:** Git, GitHub, PyInstaller, SQLite3  
 
 
