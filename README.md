@@ -1,78 +1,66 @@
-<!-- 3D Glossy Dark Banner -->
+<!-- Profile Banner -->
 <p align="center">
-  <img src="./A_digital_graphic_design_banner_features_Venkatesh.png"
-       alt="Venkatesh Maragada Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:ff3e6c&height=220&section=header&text=Venkatesh%20Maragada&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<!-- Wavy Section (capsule-render) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff3e6c&height=100&section=header&reversal=true"
-       alt="wave" width="100%">
-</p>
-
-<!-- Black content area using table bgcolor for consistent rendering -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000">
-  <tr>
-    <td align="center" style="padding-top:20px; padding-bottom:20px;">
-
-### 👋 Hi there, I'm **Maragada Venkateswara Reddy**  
-💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
+<div align="center">
+  
+### 👋 Hi there, I'm **Venkatesh Maragada**
+🎓 Computer Science Student | 💻 Machine Learning & Simulation Enthusiast | 🧩 Full-Stack Developer
 
 ---
 
 ### 🧠 About Me  
-I'm a Mechanical Engineering student turned **Web Developer**, blending analytical problem-solving with creativity.  
-Passionate about **Python**, **modern web technologies**, and always learning new frameworks to improve my backend and frontend skills.  
-Currently exploring how **machine learning** can enhance real-world applications.
+Passionate about exploring **Machine Learning**, **Data Simulation**, and **Automation**.  
+Currently building projects that merge **AI and Simulation tools (Abaqus, Ansys)** for composite material analysis.  
+Always eager to learn, build, and improve through hands-on coding.
 
 ---
 
-### ⚙️ Skills & Tools  
-![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/Django-000?style=flat&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap)
-![Streamlit](https://img.shields.io/badge/Streamlit-000?style=flat&logo=streamlit)
+### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Ansys](https://img.shields.io/badge/Ansys-FE9A00?style=flat&logo=ansys&logoColor=white)
+![Abaqus](https://img.shields.io/badge/Abaqus-002147?style=flat&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats & Activity  
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-6921&show_icons=true&theme=github_dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-6921&layout=compact&theme=github_dark&hide_border=true)  
-![Streak](https://streak-stats.demolab.com?user=Venkatesh-6921&theme=github-dark&hide_border=true)
+### 📊 GitHub Stats  
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-6921&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-6921&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Venkatesh-6921&theme=radical)
 
 ---
 
-### 🧭 Contribution Overview  
+### 🗓️ Contribution Activity  
+![Contributions](https://ghchart.rshah.org/252525/Venkatesh-6921)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venkatesh-6921&theme=github-dark)
 
-✨ *Coding consistently to learn, improve, and build meaningful projects.*
+---
+
+### 🧩 Highlighted Projects  
+🚀 [**Composite Material Tensile Strength Prediction (ML + Simulation)**](https://github.com/Venkatesh-6921)  
+A research-driven project combining **Abaqus/Ansys data** with **machine learning models** for strength prediction.  
+
+🌐 [**AnimeVerse**](https://animeverse21.netlify.app)  
+A sleek anime showcase website built using **HTML, CSS, and JavaScript**.
 
 ---
 
-### 📂 Featured Repositories  
-#### 🔹 [Calculator-Ctk](https://github.com/Venkatesh-6921/Calculator-Ctk)  
-*A modern GUI calculator built using Python and CustomTkinter.*
-
-#### 🔹 [Employee Management System](https://github.com/Venkatesh-6921/Employee_Management)  
-*A Django-based web app for managing employee data with SQLite.*
-
----
-
-### 📬 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maragada-venkateswara-reddy-2a5b5827b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)]()
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkatesh-maragada)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://animeverse21.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maragadavenkatesh@gmail.com)
 
-    </td>
-  </tr>
-</table>
+---
 
-<!-- Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3e6c,100:111111&height=120&section=footer"
-       alt="footer wave" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3e6c,100:0f0f0f&height=120&section=footer" />
 </p>
+
+</div>
