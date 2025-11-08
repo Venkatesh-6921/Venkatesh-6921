@@ -1,6 +1,12 @@
-<!-- Dark Header Banner -->
+<!-- 3D Glossy Dark Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff3e6c&height=220&section=header&text=Venkatesh%20Maragada&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/main/A_digital_graphic_design_banner_features_Venkatesh.png" 
+       alt="Venkatesh Maragada Banner" width="100%">
+</p>
+
+<!-- Optional subtle wave effect under the banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff3e6c&height=100&section=header" />
 </p>
 
 <div align="center">
@@ -10,9 +16,10 @@
 
 ---
 
-
 ### 🧠 About Me  
-I’m a Mechanical Engineering student Mechanical Engineer turned Web Developer, blending problem-solving skills with a passion for building modern, efficient web applicationsand  passionate about **Python development**, **modern web technologies**, and continuously learning new tools and frameworks.Currently improving my skills in **backend development** and exploring how **machine learning** can be applied to real-world projects.
+I’m a Mechanical Engineering student turned **Web Developer**, blending analytical problem-solving with creativity.  
+Passionate about **Python**, **modern web technologies**, and always learning new frameworks to improve my backend and frontend skills.  
+Currently exploring how **machine learning** can enhance real-world applications.
 
 ---
 
@@ -43,11 +50,12 @@ I’m a Mechanical Engineering student Mechanical Engineer turned Web Developer,
 ---
 
 ### 📂 Featured Repositories  
-### 🔹 [Calculator-Ctk](https://github.com/Venkatesh-6921/Calculator-Ctk)
+#### 🔹 [Calculator-Ctk](https://github.com/Venkatesh-6921/Calculator-Ctk)
 *A modern GUI calculator built using Python and CustomTkinter.*
 
-### 🔹 [Employee Management System](https://github.com/Venkatesh-6921/Employee_Management)
-*A Django-based web app for managing employee data using SQLite.*
+#### 🔹 [Employee Management System](https://github.com/Venkatesh-6921/Employee_Management)
+*A Django-based web app for managing employee data with SQLite.*
+
 ---
 
 ### 📬 Connect  
@@ -57,6 +65,7 @@ I’m a Mechanical Engineering student Mechanical Engineer turned Web Developer,
 
 ---
 
+<!-- Wavy Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3e6c,100:111111&height=120&section=footer" />
 </p>
