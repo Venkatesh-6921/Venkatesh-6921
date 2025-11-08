@@ -4,12 +4,12 @@
        alt="Venkatesh Maragada Banner" width="100%">
 </p>
 
-<!-- Optional subtle wave effect under the banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff3e6c&height=100&section=header" />
-</p>
+<!-- Wavy Section with Black Background -->
+<div align="center" style="background-color:#000000; padding:0; margin:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff3e6c&height=100&section=header&reversal=true" width="100%">
+</div>
 
-<div align="center">
+<div align="center" style="background-color:#000000; padding-top:20px; padding-bottom:20px;">
 
 ### 👋 Hi there, I'm **Maragada Venkateswara Reddy**
 💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
@@ -65,9 +65,9 @@ Currently exploring how **machine learning** can enhance real-world applications
 
 ---
 
-<!-- Wavy Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3e6c,100:111111&height=120&section=footer" />
-</p>
+<!-- Footer with Wave and Black Fill -->
+<div align="center" style="background-color:#000000; padding:0; margin:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3e6c,100:111111&height=120&section=footer" width="100%">
+</div>
 
 </div>
