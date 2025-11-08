@@ -5,7 +5,7 @@
 
 <div align="center">
 
-### 👋 Hey, I'm **Venkatesh**
+### 👋 Hey, I'm **Maragada Venkateswara Reddy**
 A **Python developer** and **web enthusiast** passionate about building clean, efficient, and user-friendly applications.  
 I’m currently expanding my knowledge in **backend frameworks** and exploring **machine learning** out of curiosity and passion for problem-solving.
 
