@@ -1,6 +1,6 @@
-<!-- Header with Text Inside Wave -->
+<!-- Header with Text Inside Wave - Increased Height -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Venkatesh+Maragada&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python+Developer+%7C+Web+Developer+%7C+Learning+ML&descSize=20&descAlignY=70" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Venkatesh+Maragada&fontSize=50&fontColor=ffffff&fontAlignY=30&animation=fadeIn&desc=Python+Developer+%7C+Web+Developer+%7C+Learning+ML&descSize=20&descAlignY=65" width="100%">
 </div>
 
 <div align="center" style="background-color:#000000; padding-top:20px; padding-bottom:20px;">
