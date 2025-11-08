@@ -1,14 +1,6 @@
-<!-- Header with Text Above Wave -->
-<div align="center" style="background-color:#000000; padding-top:40px; padding-bottom:0;">
-  
-  # Venkatesh Maragada
-  ### Python Developer | Web Developer | Learning ML
-  
-</div>
-
-<!-- Wavy Section -->
+<!-- Header with Text Inside Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Venkatesh+Maragada&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python+Developer+%7C+Web+Developer+%7C+Learning+ML&descSize=20&descAlignY=70" width="100%">
 </div>
 
 <div align="center" style="background-color:#000000; padding-top:20px; padding-bottom:20px;">
