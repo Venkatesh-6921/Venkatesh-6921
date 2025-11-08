@@ -9,6 +9,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff3e6c&height=100&section=header&reversal=true" width="100%">
 </div>
 
+<div align="center" style="background-color:#000000; padding-top:20px; padding-bottom:20px;">
+
 ### 👋 Hi there, I'm **Maragada Venkateswara Reddy**
 💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
 
