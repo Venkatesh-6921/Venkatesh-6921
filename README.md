@@ -1,19 +1,20 @@
-<!-- Wavy Header Container -->
-<div align="center" style="background: linear-gradient(to bottom, #000000, #111111); padding: 0; margin: 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header" width="100%">
-  <br>
+<!-- Header with Text Above Wave -->
+<div align="center" style="background-color:#000000; padding-top:40px; padding-bottom:0;">
   
   # Venkatesh Maragada
   ### Python Developer | Web Developer | Learning ML
-  <br>
+  
+</div>
+
+<!-- Wavy Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header" width="100%">
 </div>
 
 <div align="center" style="background-color:#000000; padding-top:20px; padding-bottom:20px;">
 
 ### 👋 Hi there, I'm **Maragada Venkateswara Reddy**
 💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
-
-<!-- Rest of your content remains the same -->
 
 ---
 
