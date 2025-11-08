@@ -52,7 +52,7 @@ I’m a Mechanical Engineering student Mechanical Engineer turned Web Developer,
 
 ### 📬 Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maragada-venkateswara-reddy-2a5b5827b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://animeverse21.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maragadavenkatesh@gmail.com)
 
 ---
