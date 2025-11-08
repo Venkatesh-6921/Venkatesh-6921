@@ -44,9 +44,11 @@ Currently improving my skills in **backend development** and exploring how **mac
 ---
 
 ### 📂 Featured Repositories  
-🧠 [**Python Mini Projects**](https://github.com/Venkatesh-6921) — A set of hands-on scripts that practice problem-solving and automation.  
-🌐 [**AnimeVerse Website**](https://animeverse21.netlify.app) — A clean and modern web interface built with HTML, CSS, and JS.  
+### 🔹 [Calculator-Ctk](https://github.com/Venkatesh-6921/Calculator-Ctk)
+*A modern GUI calculator built using Python and CustomTkinter.*
 
+### 🔹 [Employee Management System](https://github.com/Venkatesh-6921/Employee_Management)
+*A Django-based web app for managing employee data using SQLite.*
 ---
 
 ### 📬 Connect  
