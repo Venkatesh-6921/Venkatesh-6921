@@ -5,9 +5,15 @@
 
 <div align="center">
 
-### 👋 Hey, I'm **Maragada Venkateswara Reddy**
-A **Python developer** and **web enthusiast** passionate about building clean, efficient, and user-friendly applications.  
-I’m currently expanding my knowledge in **backend frameworks** and exploring **machine learning** out of curiosity and passion for problem-solving.
+### 👋 Hi there, I'm **Maragada Venkateswara Reddy**
+💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
+
+---
+
+
+### 🧠 About Me  
+I’m a Mechanical Engineering student Mechanical Engineer turned Web Developer, blending problem-solving skills with a passion for building modern, efficient web applicationsand  passionate about **Python development**, **modern web technologies**, and continuously learning new tools and frameworks.  
+Currently improving my skills in **backend development** and exploring how **machine learning** can be applied to real-world projects.
 
 ---
 
