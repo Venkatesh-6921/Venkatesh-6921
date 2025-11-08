@@ -1,12 +1,19 @@
-<!-- Wavy Header with Name -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=170&section=header&text=Venkatesh%20Maragada&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=fadeIn&desc=Python%20Developer%20|%20Web%20Developer%20|%20Learning%20ML&descSize=20&descAlign=50&descAlignY=95" width="100%">
+<!-- Wavy Header Container -->
+<div align="center" style="background: linear-gradient(to bottom, #000000, #111111); padding: 0; margin: 0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header" width="100%">
+  <br>
+  
+  # Venkatesh Maragada
+  ### Python Developer | Web Developer | Learning ML
+  <br>
 </div>
 
 <div align="center" style="background-color:#000000; padding-top:20px; padding-bottom:20px;">
 
 ### 👋 Hi there, I'm **Maragada Venkateswara Reddy**
 💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
+
+<!-- Rest of your content remains the same -->
 
 ---
 
