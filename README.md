@@ -1,50 +1,65 @@
-# 👋 Hi, I'm Venkateswara Reddy!  
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:ff3e6c&height=220&section=header&text=Venkatesh%20Maragada&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-🎓 **Mechanical Engineering Graduate** **and** **Python Web-Developer**
-
-💡 Graduated from **Rajiv Gandhi University of Knowledge Technologies, Srikakulam**.
-
----
-
-## 🧠 About Me  
-- 🧰 Graduated in **Mechanical Engineering** and transitioned into **Python-based web development** with strong foundational knowledge in engineering principles. 
-- 🌐 Skilled in building **web applications** using **Django**, **Flask**, and **Streamlit**.  
--  🤖 Skilled in **problem-solving** and applying engineering concepts in practical scenarios.  
-- 🧠 Passionate about learning and exploring new technologies beyond my core degree. 
-- 💡 Interested in **AI, Machine Learning, and Data Science** using Python.
-
+<div align="center">
+  
+### 👋 Hi there, I'm **Venkatesh Maragada**
+💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
 
 ---
 
-## 🧩 Tech Stack
-**Programming:** Python, JavaScript, Html5 ,Css3 ,React.js 
-
-**Frameworks & Tools:** Django, Flask, Streamlit, CustomTkinter 
-
-**Other Skills:** Git, GitHub, PyInstaller, SQLite3  
+### 🧠 About Me  
+I’m a Mechanical Engineering student Mechanical Engineer turned Web Developer, blending problem-solving skills with a passion for building modern, efficient web applicationsand  passionate about **Python development**, **modern web technologies**, and continuously learning new tools and frameworks.  
+Currently improving my skills in **backend development** and exploring how **machine learning** can be applied to real-world projects.
 
 ---
 
-## 🧪 Featured Projects
-### 🔹 [Calculator-Ctk](https://github.com/Venkatesh-6921/Calculator-Ctk)
-*A modern GUI calculator built using Python and CustomTkinter.*
-
-### 🔹 [Employee Management System](https://github.com/Venkatesh-6921/Employee_Management)
-*A Django-based web app for managing employee data using SQLite.*
-
----
-
-## 🌐 Connect With Me
-- 💼 [LinkedIn](#) *(Add your LinkedIn profile link here)*  
-- 📧 **Email:** *(maragadavekatesh@gmail.com)*  
-- 🧰 [GitHub](https://github.com/Venkatesh-6921)  
+### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-## 🏆 Goals & Interests  
-- 💡 Explore **data-driven material science** and **machine learning deployment**.  
-- 📚 Continuously learning advanced **AI, optimization, and full-stack web development**.  
+### 📊 GitHub Stats  
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-6921&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-6921&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Venkatesh-6921&theme=radical)
 
 ---
 
-> *“Engineering mindset with a passion for continuous learning and growth.”*
+### 🗓️ Contribution Activity  
+![Contributions](https://ghchart.rshah.org/252525/Venkatesh-6921)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venkatesh-6921&theme=github-dark)
+
+---
+
+### 🧩 Highlighted Projects  
+🚀 [**Personal Portfolio Website**](https://github.com/Venkatesh-6921)  
+A responsive and modern portfolio built with **HTML, CSS, and JavaScript**.  
+
+⚙️ [**Python Automation Tools**](https://github.com/Venkatesh-6921)  
+A collection of Python scripts that simplify small tasks and showcase backend logic.
+
+---
+
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/venkatesh-maragada)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://animeverse21.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maragadavenkatesh@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3e6c,100:0f0f0f&height=120&section=footer" />
+</p>
+
+</div>
