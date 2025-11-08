@@ -12,8 +12,7 @@
 
 
 ### 🧠 About Me  
-I’m a Mechanical Engineering student Mechanical Engineer turned Web Developer, blending problem-solving skills with a passion for building modern, efficient web applicationsand  passionate about **Python development**, **modern web technologies**, and continuously learning new tools and frameworks.  
-Currently improving my skills in **backend development** and exploring how **machine learning** can be applied to real-world projects.
+I’m a Mechanical Engineering student Mechanical Engineer turned Web Developer, blending problem-solving skills with a passion for building modern, efficient web applicationsand  passionate about **Python development**, **modern web technologies**, and continuously learning new tools and frameworks.Currently improving my skills in **backend development** and exploring how **machine learning** can be applied to real-world projects.
 
 ---
 
