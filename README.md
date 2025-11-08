@@ -1,17 +1,21 @@
 <!-- 3D Glossy Dark Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/main/A_digital_graphic_design_banner_features_Venkatesh.png" 
+  <img src="./A_digital_graphic_design_banner_features_Venkatesh.png"
        alt="Venkatesh Maragada Banner" width="100%">
 </p>
 
-<!-- Wavy Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header" width="100%">
-</div>
+<!-- Wavy Section (capsule-render) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:ff3e6c&height=100&section=header&reversal=true"
+       alt="wave" width="100%">
+</p>
 
-<div align="center" style="background-color:#000000; padding-top:20px; padding-bottom:20px;">
+<!-- Black content area using table bgcolor for consistent rendering -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#000000">
+  <tr>
+    <td align="center" style="padding-top:20px; padding-bottom:20px;">
 
-### 👋 Hi there, I'm **Maragada Venkateswara Reddy**
+### 👋 Hi there, I'm **Maragada Venkateswara Reddy**  
 💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
 
 ---
@@ -24,50 +28,51 @@ Currently exploring how **machine learning** can enhance real-world applications
 ---
 
 ### ⚙️ Skills & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
+![Django](https://img.shields.io/badge/Django-000?style=flat&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=flat&logo=bootstrap)
+![Streamlit](https://img.shields.io/badge/Streamlit-000?style=flat&logo=streamlit)
 
 ---
 
 ### 📈 GitHub Stats & Activity  
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-6921&show_icons=true&theme=dark&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-6921&layout=compact&theme=dark&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Venkatesh-6921&theme=dark&hide_border=true)
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh-6921&show_icons=true&theme=github_dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-6921&layout=compact&theme=github_dark&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=Venkatesh-6921&theme=github-dark&hide_border=true)
 
 ---
 
 ### 🧭 Contribution Overview  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venkatesh-6921&theme=github-dark)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Venkatesh-6921&theme=github-dark)
 
 ✨ *Coding consistently to learn, improve, and build meaningful projects.*
 
 ---
 
 ### 📂 Featured Repositories  
-#### 🔹 [Calculator-Ctk](https://github.com/Venkatesh-6921/Calculator-Ctk)
+#### 🔹 [Calculator-Ctk](https://github.com/Venkatesh-6921/Calculator-Ctk)  
 *A modern GUI calculator built using Python and CustomTkinter.*
 
-#### 🔹 [Employee Management System](https://github.com/Venkatesh-6921/Employee_Management)
+#### 🔹 [Employee Management System](https://github.com/Venkatesh-6921/Employee_Management)  
 *A Django-based web app for managing employee data with SQLite.*
 
 ---
 
 ### 📬 Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maragada-venkateswara-reddy-2a5b5827b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maragadavenkatesh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatesh-6921)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maragada-venkateswara-reddy-2a5b5827b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maragadavenkatesh@gmail.com)
 
----
+    </td>
+  </tr>
+</table>
 
-</div>
-
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&reversal=true" width="100%">
-</div>
+<!-- Footer wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3e6c,100:111111&height=120&section=footer"
+       alt="footer wave" width="100%">
+</p>
