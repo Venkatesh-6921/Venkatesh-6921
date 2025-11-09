@@ -1,9 +1,9 @@
-<!-- Header with Text Inside Wave - Increased Height -->
+<!-- Typing Animation Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Venkatesh+Maragada&fontSize=50&fontColor=ffffff&fontAlignY=30&animation=fadeIn&desc=Python+Developer+%7C+Web+Developer+%7C+Learning+ML&descSize=20&descAlignY=65" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=80FF80&center=true&vCenter=true&width=600&height=80&lines=Venkatesh+Maragada;Python+Developer;Web+Developer;ML+Enthusiast" alt="Typing Animation" />
 </div>
 
-<div align="center" style="background-color:#000000; padding-top:20px; padding-bottom:20px;">
+<div align="center">
 
 ### 👋 Hi there, I'm **Maragada Venkateswara Reddy**
 💻 Python Developer | 🌐 Web Enthusiast | 🤖 Exploring Machine Learning
@@ -61,7 +61,4 @@ Currently exploring how **machine learning** can enhance real-world applications
 
 </div>
 
-<!-- Footer Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&reversal=true" width="100%">
-</div>
+
