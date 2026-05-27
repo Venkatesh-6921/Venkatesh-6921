@@ -91,6 +91,8 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 <img src="https://img.shields.io/badge/1,236+-8E44AD?style=for-the-badge" />
 
 </td>
+</tr>
+<tr>
 <td width="34%" valign="top">
 
 | Language | Percentage |
@@ -102,6 +104,8 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 | 📋 Other | █████░░░░░░░░░░░░░░░░░░░░ **13.7%** |
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center">
 
 ### 🔥 67
@@ -111,6 +115,7 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 
 </td>
 </tr>
+
 </table>
 
 <br>
