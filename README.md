@@ -80,10 +80,10 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 <tr>
 <td width="33%" valign="top">
 
-| 📁 Repositories | **33+** |
+| 📁 Repositories | **15+** |
 |:---:|:---:|
-| ⭐ Stars | **120+** |
-| 👥 Followers | **30+** |
+| ⭐ Stars | **12+** |
+| 👥 Followers | **2+** |
 | 👤 Following | **20+** |
 
 **Total Contributions this year**
@@ -141,7 +141,6 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 
 <br><br>
