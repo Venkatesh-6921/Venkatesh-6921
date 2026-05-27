@@ -104,7 +104,7 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 </td>
 </tr>
 <tr width="100%">
-<td width="34%" valign="top" align="center">
+<td width="100%" valign="top" align="center">
 
 ### 🔥 67
 **Days in a row!** 🔥
