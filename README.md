@@ -78,7 +78,7 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="34%" valign="top">
 
 | 📁 Repositories | **15+** |
 |:---:|:---:|
@@ -106,7 +106,7 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="34%" valign="top" align="center">
 
 ### 🔥 67
 **Days in a row!** 🔥
