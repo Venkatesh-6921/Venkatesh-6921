@@ -102,6 +102,8 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 | 📋 Other | █████░░░░░░░░░░░░░░░░░░░░ **13.7%** |
 
 </td>
+</tr>
+<tr>
 <td width="34%" valign="top" align="center">
 
 ### 🔥 67
