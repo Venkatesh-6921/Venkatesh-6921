@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./github-header.png" width="100%" alt="Venkatesh-6921 | aka KaizenCode21 - AI Engineer & Python Full-Stack Developer" />
-</div>
+<p align="center">
+  <img src="./assets/kaizencode-intro.gif" width="100%" />
+</p>
 
 <br>
 
