@@ -76,8 +76,8 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 
 </div>
 
-<table width="100%">
-<tr>
+<table width="100%" align="center">
+<tr width=100%>
 <td width="34%" valign="top">
 
 | 📁 Repositories | **15+** |
