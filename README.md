@@ -212,9 +212,9 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 ## 🐍 CONTRIBUTION SNAKE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
