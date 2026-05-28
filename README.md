@@ -2,11 +2,35 @@
   <img src="./assets/kaizencode-intro.gif" width="100%" />
 </p>
 
+<div align="center">
+
+<a href="https://github.com/Venkatesh-6921">
+  <img src="https://komarev.com/ghpvc/?username=Venkatesh-6921&style=for-the-badge&color=8E44AD&label=PROFILE+VIEWS" />
+</a>
+&nbsp;
+<a href="https://pypi.org/user/KaizenCode21">
+  <img src="https://img.shields.io/badge/PyPI-KaizenCode21-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Remote%20Work-27AE60?style=for-the-badge&logo=globe&logoColor=white" />
+
+</div>
+
 <br>
 
 <div align="center">
 
-## ABOUT ME
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Self-taught+AI+Engineer+%26+Builder;Python+Full-Stack+Developer;Local-First+AI+%7C+LangGraph+%7C+Ollama;2+Tools+Live+on+PyPI;Building+from+Visakhapatnam%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 👤 ABOUT ME
 
 </div>
 
@@ -27,7 +51,7 @@ A self-taught AI engineer and Python full-stack developer from Visakhapatnam, In
 
 <div align="center">
 
-## FEATURED PROJECTS
+## 🚀 FEATURED PROJECTS
 
 </div>
 
@@ -72,49 +96,28 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 
 <div align="center">
 
-## GITHUB STATS
+## 📊 GITHUB STATS
 
 </div>
 
-<table width="100%" align="center">
-<tr>
-  <td width="34%" valign="top">
+<div align="center">
 
-| 📁 Repositories | **15+** |
-|:---:|:---:|
-| ⭐ Stars | **12+** |
-| 👥 Followers | **2+** |
-| 👤 Following | **20+** |
+<a href="https://github.com/Venkatesh-6921">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Venkatesh-6921&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B59B6&icon_color=8E44AD&text_color=C9D1D9&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh-6921&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B59B6&text_color=C9D1D9&langs_count=8" />
+</a>
 
-**Total Contributions this year**
+</div>
 
-<img src="https://img.shields.io/badge/1,236+-8E44AD?style=for-the-badge" />
+<br>
 
-</td>
-<td width="34%" valign="top">
+<div align="center">
 
-| Language | Percentage |
-|---|---|
-| 🐍 Python | ████████████████████░░░░░ **45.2%** |
-| 📜 JavaScript | █████████░░░░░░░░░░░░░░░░ **21.1%** |
-| 🔷 TypeScript | █████░░░░░░░░░░░░░░░░░░░░ **12.6%** |
-| ⚡ C++ | ███░░░░░░░░░░░░░░░░░░░░░░ **7.4%** |
-| 📋 Other | █████░░░░░░░░░░░░░░░░░░░░ **13.7%** |
+<a href="https://github.com/Venkatesh-6921">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh-6921&theme=tokyonight&hide_border=true&background=0D1117&stroke=9B59B6&ring=8E44AD&fire=F39C12&currStreakNum=FFFFFF&sideNums=9B59B6&currStreakLabel=9B59B6&sideLabels=8E8E8E&dates=6E6E6E" />
+</a>
 
-</td>
-</tr>
-<tr width="100%">
-<td width="100%" valign="top" align="center">
-
-### 🔥 67
-**Days in a row!** 🔥
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Venkatesh-6921&theme=tokyonight&hide_border=true&background=0D1117&stroke=9B59B6&ring=8E44AD&fire=F39C12&currStreakNum=FFFFFF&sideNums=9B59B6&currStreakLabel=9B59B6&sideLabels=8E8E8E&dates=6E6E6E" width="100%" />
-
-</td>
-</tr>
-
-</table>
+</div>
 
 <br>
 
@@ -130,51 +133,51 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-<br><br>
+<br>
 
 **AI / LLM**
 
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![IBM Watson](https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-<br><br>
+<br>
 
 **Frameworks**
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<br><br>
+<br>
 
 **Databases & Infra**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-1A1A2E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1A1A2E?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<br><br>
+<br>
 
 **Tools & Environment**
 
-<img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 </div>
 
@@ -196,7 +199,23 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 
 <div align="center">
 
-## INSPIRATION
+## 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 💭 INSPIRATION
 
 > *"The calmest people are often the strongest."*  
 > **— Hinata Hyuga** 🌸
@@ -214,7 +233,7 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 
 <div align="center">
 
-## </> KAIZEN LOOP
+## ∞ KAIZEN LOOP
 
 ```python
 while (alive) {
