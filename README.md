@@ -209,7 +209,22 @@ Snapshot, encrypt and restore your entire developer environment anywhere.
 
 <div align="center">
 
+## 🏆 GITHUB TROPHIES
+
+<img src="https://github-profile-trophy.vercel.app/?username=Venkatesh-6921&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
 ## 🐍 CONTRIBUTION SNAKE
+
+<!-- To activate: Go to Actions tab → "Generate Snake Animation" → click "Run workflow" -->
+<!-- After it runs once, the snake will appear here automatically every day -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Venkatesh-6921/Venkatesh-6921/output/github-contribution-grid-snake-dark.svg" />
